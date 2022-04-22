@@ -264,6 +264,7 @@ html{
     width: 100%;
     background-color:rgba(235, 240, 243, 0.8);
     border-radius:1rem;
+    z-index: 3;
 }
 
 .option-item--span{
