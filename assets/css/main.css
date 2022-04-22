@@ -9,7 +9,8 @@ html{
 }
 
 .main{
-    background: linear-gradient(to right top, #ffb584, #e8dcdb)
+    background: linear-gradient(to right top, #ffb584, #e8dcdb);
+    height: auto;
 }
 
 .intro{
